@@ -1,0 +1,144 @@
+body{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 15px;
+    margin-top: 2%;
+    color: white;
+    border: 7px solid white;
+    font-family: arial, sans-serif;
+    background-color: #f2f2d0;
+    min-width: 600px;
+
+}
+
+/* .remove-el{
+    margin-left: 15px;
+    text-align: left;
+} */
+
+#header{
+    height: 200px;
+    text-align: center;
+    margin-top: -20px;
+    background-color: #087fff;
+    border-radius: 9px 9px 0px 0px;
+}
+#title{
+    margin-top: 20px;
+    padding-top: 50px;
+    font-size: 50px;
+}
+#footer{
+    height: 460px;
+    background-color: #01254a;
+    border-radius: 0px 0px 15px 15px;
+}
+
+.buttonOption{
+    width: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: none;
+    margin-top: 5%;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #b3d7ff;
+    color: #01254a;
+    
+}
+#wash-btn{
+    width: 120px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: none;
+    margin-top: 5%;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #b3d7ff;
+    color: #01254a;
+        
+    
+}
+#mow-btn{
+    width: 120px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: none;
+    margin-top: 5%;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #b3d7ff;
+    color: #01254a;
+}
+#weed-btn{
+    width: 120px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: none;
+    margin-top: 5%;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #b3d7ff;
+    color: #01254a;
+}
+
+
+#wash-el{
+    padding-top: 20px;
+    text-align: left;
+}
+#mow-el{
+    padding-top: 20px;
+    text-align: left;
+}
+#weed-el{
+    padding-top: 20px;
+    text-align: left;
+}
+
+#wash-num{
+    text-align: right;
+}
+#mow-num{
+    text-align: right;
+}
+#weed-num{
+    text-align: right;
+}
+#total-el{
+    text-align: right;
+}
+table{
+    text-align: justify;
+    width: 100%;
+}
+#fullTable{
+    padding-left: 7%;
+    padding-right: 7%;
+    height: 200px;
+}
+#barLine{
+    margin-top: 30px;
+}
+
+#send{
+    margin-top: 30px;
+    width: 90%;
+    height: 40px;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    background-color: #087fff;
+    border: none;
+    border-radius: 10px;
+}
+#img{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+   padding-top: 1px;
+}
